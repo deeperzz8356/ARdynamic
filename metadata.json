@@ -1,0 +1,7 @@
+{
+  "name": "AR Indoor Navigation",
+  "description": "A markerless AR indoor navigation web app using React, Three.js, and WebXR. Users can see their camera feed and follow 3D arrows overlaid on the real-world view to navigate inside a virtual 3D college model.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
